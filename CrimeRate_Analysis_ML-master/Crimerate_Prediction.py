@@ -19,7 +19,7 @@ def inverse_difference(history, yhat, interval=1):
 	return yhat + history[-interval]
  
 # load data
-series = Series.from_csv('C:\\Users\\akshaybahadur21\\Documents\\GitHub\\CrimeRate_Prediction_MachineLearning\\Daily_Incidents_of_Crime_Dummy.csv')
+series = Series.from_csv(D:\PROJECTS\CrimeRate_Analysis_ML-master.csv)
 # prepare data
 X = series.values
 # print X
