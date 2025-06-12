@@ -7,8 +7,11 @@ I analyzed U.S. stock market data to identify performance trends, sector movemen
    
  ![counter_plot_of_class](https://github.com/user-attachments/assets/6f344070-34ec-48b8-8f60-1c135ef6fe44)
  counter plot of classes
+ 
 ![mean operatong cash flow per sector](https://github.com/user-attachments/assets/da2ca5a5-136a-44d7-a515-e02e82302de2)
 mean operating cash flow per sector
+
+
 ![Sector wise market capital of stocks](https://github.com/user-attachments/assets/0fb09d90-1b8e-40ab-9042-edeb30e372c2)
 sector wise market capital stocks
 
